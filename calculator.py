@@ -19,3 +19,18 @@ Staff = int(input())
 print("Other expenses:")
 Other = int(input())
 print("Net income: $", Income - (Staff + Other), sep='')
+
+# Earned amount:
+# Bubblegum: $202
+# Toffee: $118
+# Ice cream: $2250
+# Milk chocolate: $1680
+# Doughnut: $1075
+# Pancake: $80
+#
+# Income: $5405
+# Staff expenses:
+# > 2000
+# Other expenses:
+# > 205
+# Net income: $3200
