@@ -34,3 +34,18 @@ print("Net income: $", Income - (Staff + Other), sep='')
 # Other expenses:
 # > 205
 # Net income: $3200
+
+# Earned amount:
+# Bubblegum: $202
+# Toffee: $118
+# Ice cream: $2250
+# Milk chocolate: $1680
+# Doughnut: $1075
+# Pancake: $80
+#
+# Income: $5405
+# Staff expenses:
+# > 5203
+# Other expenses:
+# > 400
+# Net income: $-198
